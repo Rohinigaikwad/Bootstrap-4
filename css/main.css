@@ -1,0 +1,83 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.height{
+    min-height: 70vh;
+}
+#skills .text-underline{
+   width: 170px;
+   height: 8px;
+   margin: auto;
+   /* background: blue!important; */
+}
+#about .text-underline{
+    width: 190px;
+    height: 8px;
+    margin: auto;
+}   
+#projects .text-underline{
+    width: 250px;
+    height: 8px;
+    margin: auto;
+}   
+#team .text-underline{
+    width: 150px;
+    height: 8px;
+    margin: auto;
+}   
+#carousel .text-underline{
+    width: 430px;
+    height: 8px;
+    margin: auto;
+}   
+
+#blog .text-underline{
+    width: 150px;
+    height: 8px;
+    margin: auto;
+} 
+#contact .text-underline{
+    width:240px;
+    height: 8px;
+    margin: auto;
+} 
+#review .text-underline{
+    width: 200px;
+    height: 8px;
+    margin: auto;
+}  
+#progress .text-underline{
+    width: 280px;
+    height: 8px;
+    margin: auto;
+}   
+#pricing .text-underline{
+    width: 220px;
+    height: 8px;
+    margin: auto;
+}  
+#footer .text-underline{
+    width: 210px;
+    height: 8px;
+    margin: auto;
+}                
+.height-80{
+    min-height: 80vh;
+}
+.about-picture{
+    background:url(../Img/Apple.jpg)center/cover no-repeat fixed;
+    /* background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed    */
+
+}
+#filler{
+    background:url(../Img/website.jpeg)center/cover no-repeat fixed;
+
+}
+#progress{
+    background:url(../Img/new.jpeg)center/cover no-repeat fixed;
+
+}
