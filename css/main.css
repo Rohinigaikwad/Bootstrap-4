@@ -3,7 +3,7 @@ body{
 }
 
 .height{
-    min-height: 70vh;
+    min-height: 80vh;
 }
 #skills .text-underline{
    width: 170px;
@@ -65,14 +65,18 @@ body{
 .height-80{
     min-height: 80vh;
 }
+
 .about-picture{
-    background:url(../Img/Apple.jpg)center/cover no-repeat fixed;
-    /* background-size: cover; 
-    background-position: center;
+  background: url(images/Apple.jpg) no-repeat center center fixed;
+    /* background:url(../Img/Apple.jpg); 
+    background-position: center center                                                                                                                   ;
     background-repeat: no-repeat;
     background-attachment: fixed    */
-
+    background-size: cover;
+    /* height: 100%; */
+    overflow: hidden;
 }
+
 #filler{
     background:url(../Img/website.jpeg)center/cover no-repeat fixed;
 
